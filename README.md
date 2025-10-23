@@ -44,5 +44,11 @@
 </p>
 
 
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boinipavan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
 ⭐ _"Code. Learn. Build. Repeat."_  
 Thanks for visiting my profile! 😊
